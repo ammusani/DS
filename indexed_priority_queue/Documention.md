@@ -1,4 +1,4 @@
-# Definitions & Declaration for use of indexed_heap.h:
+# Definitions & Declaration for use of indexed_priority_queue.h:
 
 ---
 
@@ -8,7 +8,7 @@
  * Institute 	    :   Indian Institute of Technology Tirupati
  * Part of final year BTech Project
  * Professor	    :	Dr. Raghavendra K <raghavendrak at iittp dot ac dot in>
- 
+
 ---
 
 ## Functioning
