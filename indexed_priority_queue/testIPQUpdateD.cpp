@@ -1,10 +1,10 @@
 // File to test indexed heap update, deleteAt & valueAt for D-arr
 
 /* 
- * Data Structure 	:	Indexed Priority Queue
- * Author 	        : 	Aliasgar Musani <cs17b004 at iittp dot ac dot in>
- * Institute 	    :	Indian Institute of Technology Tirupati
- * As a part of final year BTech Project
+ * Data Structure   :   Indexed Priority Queue implemented using Indexed Heap
+ * Author 	        :   Aliasgar Musani <cs17b004 at iittp dot ac dot in> / <aliasgarmusani at gmail dot com>
+ * Institute 	    :   Indian Institute of Technology Tirupati
+ * Part of final year BTech Project
  * Professor	    :	Dr. Raghavendra K <raghavendrak at iittp dot ac dot in>
  */
 
