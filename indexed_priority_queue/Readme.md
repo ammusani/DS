@@ -17,6 +17,7 @@
 2. Each object is assigned a specific key, having a value [0, M).
 3. Its value and key is inserted in heap.
 4. Currently the objects supported are only of type numeric + char, it's open for contributors to make it support other data types.
+5. Refer to documentation for more details.
 
 Tip: If you want to use it is a max and to store numeric types, just negate your values while pushing / updating. And make sure to negate it again while using.
 
@@ -50,7 +51,6 @@ Tip: If you want to use it is a max and to store numeric types, just negate your
 PS: 
 * Probably I am not going to do the remaining work as this is a part of another project which I am working on and it doesn't majorly require the remaining stuff. 
 * If someone wants he is free to contribute to it by finishing the task from above list or make the code more efficient. 
-* Just maintain the proper documentation and add your contribution to Contributions.md to get PR accepted.
 
 ---
 
