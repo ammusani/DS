@@ -1,14 +1,23 @@
-// File to test indexed heap update, deleteAt & valueAt
+// File to test indexed heap update, deleteAt & valueAt for D-arr
+
+/* 
+ * Data Structure 	:	Indexed Priority Queue
+ * Author 	        : 	Aliasgar Musani <cs17b004 at iittp dot ac dot in>
+ * Institute 	    :	Indian Institute of Technology Tirupati
+ * As a part of final year BTech Project
+ * Professor	    :	Dr. Raghavendra K <raghavendrak at iittp dot ac dot in>
+ */
 
 #include<bits/stdc++.h>
-#include "indexed_heap.h"
+#include "indexed_priority_queue.h"
 
 using namespace std;
 
 int main() {
     int n = 100;
     int m = 20;
-    I_PQ<int> ipq(n);
+    int D = 3;
+    I_PQ<int> ipq(n, D);
     for (int i = 0; i < m; i++) {
         int k = rand() % 100;
         int j = rand() % 100;

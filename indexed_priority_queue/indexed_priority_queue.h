@@ -1,5 +1,13 @@
 // This is an indexed priority queue implemented using Indexed D-Heap (min)
 
+/* 
+ * Data Structure 	:	Indexed Priority Queue
+ * Author 	        : 	Aliasgar Musani <cs17b004 at iittp dot ac dot in>
+ * Institute 	    :	Indian Institute of Technology Tirupati
+ * As a part of final year BTech Project
+ * Professor	    :	Dr. Raghavendra K <raghavendrak at iittp dot ac dot in>
+ */
+
 #include<bits/stdc++.h>
 using namespace std;
 

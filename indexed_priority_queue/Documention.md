@@ -3,7 +3,11 @@
 ---
 
 ## About
-
+ * Data Structure:  Indexed Heap
+ * Author 	: 	    Aliasgar Musani <cs17b004 at iittp dot ac dot in>
+ * Institute 	:	Indian Institute of Technology Tirupati
+ * As a part of final year BTech Project
+ * Professor	:	Dr. Raghavendra K <raghavendrak at iittp dot ac dot in>
 
 ---
 
@@ -237,6 +241,7 @@ It has to be updated it if needed to be used in future, as in C++, while compari
 
 ## Attahced Files:
 
+1. indexed_priority_queue.h
 1. Readme.md - Gives a descrition of the code and respective files.
 2. Few basic test files:
     (a) testIPQ.cpp - push and pop
@@ -258,3 +263,6 @@ It has to be updated it if needed to be used in future, as in C++, while compari
 6. WIP..
 
 PS: Probably I am not going to do the remaining work as this is a part of another project which I am working on and it doesn't majorly require the remaining stuff, if someone wants he is free to contribute to this or make it more efficient.
+
+---
+
