@@ -340,8 +340,8 @@ class I_PQ {
         }
 
         void boundsCheck(int kI) {
-            if (kI > mSz || kI < 0) {
-                cout << "Index out of bounds" << endl;
+            if (kI >= mSz || kI < 0) {
+                cout << "Index out of bounds for kI = "<< kI << endl;
                 exit(-1);
             }
         }
