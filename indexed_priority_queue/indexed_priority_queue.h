@@ -220,7 +220,7 @@ class I_PQ {
 
         /* To update at a given location
          * */
-        T updateAt (int kI, int val) {
+        T updateAt (int kI, T val) {
             presenceCheck(kI);
             // valueCheck(val);
             int i = posM[kI];
@@ -236,7 +236,7 @@ class I_PQ {
 
         /* To strictly increase
          * */
-        void increase (int kI, int val) {
+        void increase (int kI, T val) {
             presenceCheck(kI);
             // valueCheck(val);
             if (vals[kI] < val) {
@@ -247,7 +247,7 @@ class I_PQ {
 
         /* To strictly decrease
          * */
-        void decrease (int kI, int val) {
+        void decrease (int kI, T val) {
             presenceCheck(kI);
             // valueCheck(val);
             if (vals[kI] > val) {
